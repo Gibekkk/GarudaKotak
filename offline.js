@@ -1,10 +1,14 @@
 ﻿{
-	"version": 1743057151,
+	"version": 1743061180,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
+		"images/attackbutton-sheet0.png",
+		"images/blockbutton-sheet0.png",
+		"images/dodgebutton-sheet0.png",
+		"images/ultimatebutton-sheet0.png",
 		"images/navbutton-sheet0.png",
 		"images/enemy1-sheet0.png",
 		"images/bluegaruda-sheet0.png",
