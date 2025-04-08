@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1744108109,
+	"version": 1744109897,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -8,6 +8,8 @@
 		"images/exitbutton-sheet0.png",
 		"images/exitbutton-sheet1.png",
 		"images/creditsbutton-sheet0.png",
+		"images/homebutton-sheet0.png",
+		"images/homebutton-sheet1.png",
 		"images/enemy1-sheet0.png",
 		"images/enemy2-sheet0.png",
 		"images/enemy2-sheet1.png",
