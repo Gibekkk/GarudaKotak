@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1744802221,
+	"version": 1744888270,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,9 @@
 		"images/tuyulnormalblockedoverlay.png",
 		"images/tuyulpemukulblockedoverlay.png",
 		"images/tuyulpencuriblockedoverlay.png",
+		"images/fireball-sheet0.png",
+		"images/fireball-sheet1.png",
+		"images/projectilespawn-sheet0.png",
 		"images/goblin1-sheet0.png",
 		"images/goblin2-sheet0.png",
 		"images/goblin3-sheet0.png",
@@ -88,8 +91,8 @@
 		"images/fade.png",
 		"media/fireballcast.ogg",
 		"media/fireimpact.ogg",
-		"media/titlescreendraft1.ogg",
 		"media/battlebgmdraft1.ogg",
+		"media/titlescreendraft2.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
