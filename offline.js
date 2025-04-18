@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1744963450,
+	"version": 1744966706,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -101,9 +101,15 @@
 		"media/fireballcast.ogg",
 		"media/fireimpact.ogg",
 		"media/explosionult.ogg",
-		"media/twig-snapping-92285.ogg",
+		"media/twigsnap.ogg",
 		"media/crystal1.ogg",
 		"media/crystal2.ogg",
+		"media/goblinattack.ogg",
+		"media/playerhit.ogg",
+		"media/goblinabouttoattack.ogg",
+		"media/goblininjured.ogg",
+		"media/ultchargefirecrystal.ogg",
+		"media/dodge.ogg",
 		"media/battlebgmdraft1.ogg",
 		"media/titlescreendraft3.ogg",
 		"media/crystalselection.ogg",
