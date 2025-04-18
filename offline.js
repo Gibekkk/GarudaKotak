@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1744966706,
+	"version": 1744968035,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -110,6 +110,7 @@
 		"media/goblininjured.ogg",
 		"media/ultchargefirecrystal.ogg",
 		"media/dodge.ogg",
+		"media/buttonsounds.ogg",
 		"media/battlebgmdraft1.ogg",
 		"media/titlescreendraft3.ogg",
 		"media/crystalselection.ogg",
