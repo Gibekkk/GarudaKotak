@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1744968035,
+	"version": 1745056146,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,9 @@
 		"images/tuyulpemukulblockedoverlay.png",
 		"images/tuyulpencuriblockedoverlay.png",
 		"images/playerultoverlay1-sheet0.png",
+		"images/playerultoverlay1-sheet1.png",
+		"images/playerultoverlay1-sheet2.png",
+		"images/playerultoverlay1-sheet3.png",
 		"images/fireball-sheet0.png",
 		"images/fireball-sheet1.png",
 		"images/projectilespawn-sheet0.png",
