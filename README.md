@@ -14,3 +14,8 @@ src="/gh-asset/garuda_title.png"
 ## Play as the knights of GARUDA
 From the shadows of legend, ancient beings rise to cast dread upon the land. Garuda, witnessing the darkness unfold, descends from the skies bestowing divine fragments of his power upon chosen souls, the Knights of GARUDA, to banish all evil from the land once more.
 
+## Features
+- 100% hand-drawn assets: no borrowed or AI generated images.
+- 
+
+## How to play:
