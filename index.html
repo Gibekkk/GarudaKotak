@@ -132,41 +132,5 @@
 			}
 		};
     </script>
-	<script>
-		const KEY_PRESS_DELAY = 1000;
-		let lastKeyPressTime = 0;
-
-		function simulateKeyDown(key) {
-            const event = new KeyboardEvent('keydown', {
-                key: key,
-                bubbles: true,
-                cancelable: true
-            });
-            document.dispatchEvent(event);
-        }
-
-        function simulateKeyUp(key) {
-            const event = new KeyboardEvent('keyup', {
-                key: key,
-                bubbles: true,
-                cancelable: true
-            });
-            document.dispatchEvent(event);
-        }
-
-        function simulateKeyPress(key) {
-			console.log(key);
-            const now = Date.now();
-            if (now - lastKeyPressTime < KEY_PRESS_DELAY) return;
-            
-            lastKeyPressTime = now;
-            simulateKeyDown(key);
-            setTimeout(() => simulateKeyUp(key), 100);
-        }
-
-	while(true){
-		setTimeout(() => simulateKeyPress("e"), 100);
-	}
-	</script>
 </body> 
 </html> 
