@@ -10,7 +10,6 @@
   top: 35%;
 
   margin-left: 5%;
-
   
   grid-template-rows: var(--cs) auto 1fr;
 }
