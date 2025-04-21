@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745197903,
+	"version": 1745226486,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -137,6 +137,7 @@
 		"media/ultchargefirecrystal.ogg",
 		"media/dodge.ogg",
 		"media/buttonsounds.ogg",
+		"media/page-turn.ogg",
 		"media/battlebgmdraft1.ogg",
 		"media/titlescreendraft3.ogg",
 		"media/crystalselection.ogg",
