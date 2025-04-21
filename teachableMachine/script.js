@@ -7,8 +7,10 @@ const URL = "https://teachablemachine.withgoogle.com/models/sOau28EB6/";
   let controlPose = "Idle";
   let modelLoaded = false;
   let webcamInitialized = false;
-  const camWidth = 192 * 2;
-  const camHeight = 108 * 2;
+  // const camWidth = 192 * 2;
+  // const camWidth = 108 * 2;
+  const camWidth = 150 * 2;
+  const camHeight = 150 * 2;
   const videoContainer = document.getElementById("video-container");
 
   async function init() {
@@ -83,7 +85,7 @@ const URL = "https://teachablemachine.withgoogle.com/models/sOau28EB6/";
   async function loop() {
     if (!isCameraActive) return;
 
-    videoContainer.style.left = ((window.innerWidth / 2) - (camWidth / 2)) + "px";
+    // videoContainer.style.left = ((window.innerWidth / 2) - (camWidth / 2)) + "px";
 
     webcam.update();
 
@@ -115,3 +117,4 @@ const URL = "https://teachablemachine.withgoogle.com/models/sOau28EB6/";
 
   // Initialize model when page loads
   init();
+  // start();

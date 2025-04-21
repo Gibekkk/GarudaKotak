@@ -1,4 +1,48 @@
 #video-container {
-    position: absolute;
-    top: 0;
-  }
+  display: grid;
+  /* width: 400px; */
+  aspect-ratio: 4/3;
+  --bc: #e36849; /*border-color*/
+  --bs: 8px; /*border-size*/
+  --cs: 20px; /*cut-size*/
+
+  position: absolute;
+  top: 35%;
+
+  margin-left: 5%;
+
+  
+  grid-template-rows: var(--cs) auto 1fr;
+}
+
+#video-container > canvas{
+  grid-area: 2/1/4/2;
+
+  object-fit: cover;
+  --em: .5;
+  clip-path: polygon(
+    calc(var(--cs) + var(--bs) * var(--em)) var(--bs), 
+    calc(100% - var(--bs)) var(--bs),
+    calc(100% - var(--bs)) calc(100% - var(--cs) - var(--bs)),
+    calc(50% + var(--cs) - var(--bs) * var(--em)) calc(100% - var(--cs) - var(--bs)),
+    calc(50% - var(--bs) * var(--em)) calc(100% - var(--bs)),
+    var(--bs) calc(100% - var(--bs)),
+    var(--bs) calc(var(--cs) + var(--bs) * var(--em))
+    );  
+    
+}
+
+#video-container{ /*border*/
+  content: "";
+  grid-area: 2/1/4/2;
+  background-color: var(--bc);
+  clip-path: polygon(
+    var(--cs) 0, 
+    100% 0,
+    100% calc(100% - var(--cs)),
+    calc(50% + var(--cs)) calc(100% - var(--cs)),
+    50% 100%,
+    0% 100%,
+    0 var(--cs)
+  );
+}
