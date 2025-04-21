@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745235265,
+	"version": 1745237798,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -78,6 +78,7 @@
 		"images/fog-sheet0.png",
 		"images/startingpagetitle-sheet0.png",
 		"images/creditspagebackground.png",
+		"images/teamname-sheet0.png",
 		"images/prologuestory1.png",
 		"images/prologuestory2.png",
 		"images/prologuestory3.png",
