@@ -17,7 +17,7 @@ From the shadows of legend, ancient beings rise to cast dread upon the land. Gar
 <!-- se lupa kalo github nd bisa open link -->
 
 <h2>Play Now</h2>
-go to garuda-kotak.vercel.app or click [this link](https://garuda-kotak.vercel.app) 
+try the game now at https://garuda-kotak.vercel.app 
 <!-- <a href="garuda-kotak.vercel.app" target="_blank">
     <img src="icon-256.png" alt="Play Now" style="width: 100px; height: auto; border-radius: 20px">
 </a>
