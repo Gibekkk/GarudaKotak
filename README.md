@@ -15,14 +15,14 @@ src="/gh-asset/garuda_title.png"
 From the shadows of legend, ancient beings rise to cast dread upon the land. Garuda, witnessing the darkness unfold, descends from the skies bestowing divine fragments of his power upon chosen sools, the Knights of GARUDA, to banish all evil from the land once more.
 
 <h2>Play Now</h2>
-<a href="/youtube.com" target="_blank">
+<a href="garuda-kotak.vercel.app" target="_blank">
     <img src="icon-256.png" alt="Play Now" style="width: 100px; height: auto; border-radius: 20px">
 </a>
-<p>or click this <a href="/youtube.com" target="_blank">link</a></p>
+<p>or click this <a href="garuda-kotak.vercel.app" target="_blank">link</a></p>
 
 <!-- <div style="display: flex; align-items: center;">
     <h1 style="margin-right: 20px;">Play Now:</h1>
-    <a href="/youtube.com" target="_blank">
+    <a href="garuda-kotak.vercel.app" target="_blank">
         <img src="icon-256.png" alt="Play Now" style="width: 100px; height: auto; border-radius: 20px">
     </a>
 </div> -->
