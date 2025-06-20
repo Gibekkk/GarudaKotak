@@ -1,4 +1,7 @@
-const URL = "https://teachablemachine.withgoogle.com/models/sOau28EB6/";
+// Garuda Model 1
+// const URL = "https://teachablemachine.withgoogle.com/models/sOau28EB6/";
+// Garuda Model 2
+const URL = "https://teachablemachine.withgoogle.com/models/g61HAqKN8/";
   let model = null,
     webcam = null,
     maxPredictions = 0;
