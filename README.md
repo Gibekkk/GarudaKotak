@@ -4,9 +4,7 @@
 </div>
 
 <p align="center">
-<img
-src="/gh-asset/garuda_title.png"
->
+<img src="gh-asset/garuda_title.png" >
 </p>
 
 ---
@@ -54,7 +52,7 @@ try the game now at https://garuda-kotak.vercel.app
 <summary>Detailed Overview</summary>
 
 <p align="center">
-<img src="/images/tutorialpageinstructions.png" style="width: 65%; height: auto">
+<img src="images/tutorialpageinstructions.png" style="width: 65%; height: auto">
 </p>
 
 <p align="center">
@@ -89,7 +87,7 @@ try the game now at https://garuda-kotak.vercel.app
 
 ## Dev Team Overview
 <p align="center">
-<img src="/images/teamname-sheet0.png" style="width: 65%; height: auto">
+<img src="images/teamname-sheet0.png" style="width: 65%; height: auto">
 </p>
 
 <h3>Developer:<br>- Gilbert De Foucauld Winardy (Gibekkk)<br>- Aryo Karel Merentek (Oreo-1)</h3>
