@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1745376872,
+	"version": 1784945146,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -52,6 +52,7 @@
 		"images/debuffblock-sheet1.png",
 		"images/healblock-sheet0.png",
 		"images/hurtblock-sheet0.png",
+		"images/buffblock-sheet0.png",
 		"images/tuyulnormalunblockedoverlay.png",
 		"images/tuyulpemukulunblockedoverlay.png",
 		"images/tuyulpencuriunblockedoverlay.png",
